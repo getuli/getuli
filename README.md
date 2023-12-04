@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email:getcontamach@gmail.com
-  or [https://www.linkedin.com/feed/](https://www.linkedin.com/in/get%C3%BAlio-machado-a08076202/)
+  or  https://www.linkedin.com/in/get%C3%BAlio-machado-a08076202?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGVyU1ArRaa7LyM98bzHzQ%3D%3D
 
 <!---
 getuli/getuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
